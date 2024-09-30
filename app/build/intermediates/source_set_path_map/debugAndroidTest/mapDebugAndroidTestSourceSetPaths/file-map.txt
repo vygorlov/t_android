@@ -1,0 +1,5 @@
+com.example.myapplication.test.app-core-1.6.1-0 C:\Users\lala\.gradle\caches\transforms-4\96736f29a8c5a94f362b7bc4969770b5\transformed\core-1.6.1\res
+com.example.myapplication.test.app-androidTest-1 C:\Users\lala\AndroidStudioProjects\t_android\app\build\generated\res\resValues\androidTest\debug
+com.example.myapplication.test.app-mergeDebugAndroidTestResources-2 C:\Users\lala\AndroidStudioProjects\t_android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.myapplication.test.app-mergeDebugAndroidTestResources-3 C:\Users\lala\AndroidStudioProjects\t_android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.myapplication.test.app-debugAndroidTest-4 C:\Users\lala\AndroidStudioProjects\t_android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
